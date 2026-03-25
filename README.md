@@ -95,17 +95,9 @@ This makes it suitable for **testing, development, and demonstration**, not full
 
 The pipeline uses **hg38** for host removal.
 
-#### Option 1: Provide locally
+#### Auto-download (handled in pipeline)
 
-Place file at:
-
-```
-ref/hg38.fa
-```
-
-#### Option 2: Auto-download (handled in pipeline)
-
-If not found, it downloads from Ensembl:
+Downloads from Ensembl:
 
 ```
 Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
