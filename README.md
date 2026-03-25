@@ -107,15 +107,9 @@ Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
 
 ### Kraken2 Database
 
-You must manually download and provide a Kraken2 database.
+You must manually download and provide a Kraken2 database. I used standard DB
 
-#### Recommended (Standard DB)
-
-```bash
-kraken2-build --standard --db kraken_db
-```
-
-#### Alternative (Prebuilt DB)
+#### Prebuilt DB
 
 Download from:
 https://benlangmead.github.io/aws-indexes/k2
