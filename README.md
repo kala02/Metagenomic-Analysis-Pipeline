@@ -232,7 +232,7 @@ Developed as a **bioinformatics workflow project** demonstrating:
 
 ## License
 
-MIT License (or specify your preferred license)
+MIT License 
 
 ---
 
